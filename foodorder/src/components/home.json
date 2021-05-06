@@ -1,0 +1,10 @@
+[{
+    "id" : 0,
+    "name" : "Pizza",
+    "image" : "https://i.pinimg.com/originals/61/11/80/611180667f2ff4256edc4af875f9f47d.jpg"
+}, 
+{
+    "id" : 1,
+    "name" : "Burger",
+    "image" : "https://www.nicepng.com/png/detail/416-4160831_burger-png-vector-burger-vector-png.png"
+}]

@@ -1,0 +1,23 @@
+[
+    {
+        "id" : 0,
+        "name" : "Chicken Classic Cheese Burger",
+        "image" : "https://www.myfoodwifi.com/wp-content/uploads/2018/03/classic_burger-1-300x218-1.png",
+        "price" : "550",
+        "description" : "Aged cheddar, sweet pickle, tomato, red onion"
+    }, 
+    {
+        "id" : 1,
+        "name" : "Paneer Tikka Burger",
+        "image" : "https://i.ytimg.com/vi/MM6hinhfVr8/maxresdefault.jpg",
+        "price" : "450",
+        "description" : "Spicy Paneer, Onion, Tomato, Mozerella Cheese"
+    }, 
+    {
+        "id" : 2,
+        "name" : "Fried Chicken Burger",
+        "image" : "https://img.buzzfeed.com/video-api-prod/assets/77aad6750f33448597f3728b83d60947/Thumb_A_FB.jpg",
+        "price" : "450",
+        "description" : "Old School Chicken Burger"
+    }
+]

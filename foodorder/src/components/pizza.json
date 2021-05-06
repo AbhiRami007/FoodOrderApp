@@ -1,0 +1,25 @@
+[
+    {
+        "id":0,
+      "name": "Tomato Basil Italian Pizza",
+      "image": "https://res.cloudinary.com/dm64gdjus/image/upload/v1616221247/food/Pizza-basil_ar6bqx.webp",
+      "price": "450",
+      "description": "Dressed with oil, the origanum and garlic cloves"
+   },
+   {
+        "id":1,
+      "name": "Bombay Pizza",
+      "image": "https://res.cloudinary.com/dm64gdjus/image/upload/v1616221406/food/bombay-pizza_tuiqfx.jpg",
+      "price": "550",
+      "description": "Dressed with oil, the origanum and garlic cloves"
+
+   },
+   {
+    "id":2,
+      "name": "Sicilia Pizza",
+      "image": "https://res.cloudinary.com/dm64gdjus/image/upload/v1616221247/food/Pizza-basil_ar6bqx.webp",
+      "price": "450",
+      "description": "Dressed with oil, the origanum and garlic cloves"
+
+   }
+]
